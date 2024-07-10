@@ -1,0 +1,44 @@
+[0.179s] Invoking command in '/home/user/ros2_ws/build/my_tf_ros2_course_pkg': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/my_tf_ros2_course_pkg -- -j8 -l8
+[2.962s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.418s] -- Found tf2_ros: 0.25.1 (/opt/ros/humble/share/tf2_ros/cmake)
+[3.528s] -- Found rosidl_generator_c: 3.1.3 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[3.545s] -- Found rosidl_adapter: 3.1.3 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[3.684s] -- Found rosidl_generator_cpp: 3.1.3 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[3.717s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.764s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.506s] -- Found rmw_implementation_cmake: 6.1.0 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[4.513s] -- Found rmw_fastrtps_cpp: 6.2.1 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.285s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[6.375s] -- Found nav_msgs: 4.2.2 (/opt/ros/humble/share/nav_msgs/cmake)
+[6.630s] -- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[6.778s] -- Added test 'copyright' to check source files copyright and LICENSE
+[6.783s] -- Added test 'flake8' to check Python code syntax and style conventions
+[6.784s] -- Added test 'lint_cmake' to check CMake code style
+[6.785s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[6.788s] -- Added test 'xmllint' to check XML markup files
+[6.790s] -- Configuring done
+[6.802s] -- Generating done
+[6.809s] -- Build files have been written to: /home/user/ros2_ws/build/my_tf_ros2_course_pkg
+[6.853s] Invoked command in '/home/user/ros2_ws/build/my_tf_ros2_course_pkg' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/my_tf_ros2_course_pkg -- -j8 -l8
+[6.934s] Invoking command in '/home/user/ros2_ws/build/my_tf_ros2_course_pkg': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/my_tf_ros2_course_pkg
+[6.940s] -- Install configuration: ""
+[6.941s] -- Installing: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg//launch
+[6.941s] -- Installing: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg//launch/publish_static_transform_odom_to_world.launch.py
+[6.942s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/lib/my_tf_ros2_course_pkg/cam_bot_odom_to_tf_pub.py
+[6.942s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/lib/my_tf_ros2_course_pkg/cam_bot_odom_to_tf_pub_late_tf_fixed.py
+[6.942s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/ament_index/resource_index/package_run_dependencies/my_tf_ros2_course_pkg
+[6.942s] -- Installing: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/ament_index/resource_index/parent_prefix_path/my_tf_ros2_course_pkg
+[6.943s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/environment/ament_prefix_path.sh
+[6.943s] -- Installing: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/environment/ament_prefix_path.dsv
+[6.943s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/environment/path.sh
+[6.943s] -- Installing: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/environment/path.dsv
+[6.943s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/local_setup.bash
+[6.944s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/local_setup.sh
+[6.944s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/local_setup.zsh
+[6.944s] -- Installing: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/local_setup.dsv
+[6.944s] -- Installing: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/package.dsv
+[6.945s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/ament_index/resource_index/packages/my_tf_ros2_course_pkg
+[6.945s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/cmake/my_tf_ros2_course_pkgConfig.cmake
+[6.945s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/cmake/my_tf_ros2_course_pkgConfig-version.cmake
+[6.945s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/package.xml
+[6.948s] Invoked command in '/home/user/ros2_ws/build/my_tf_ros2_course_pkg' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/my_tf_ros2_course_pkg

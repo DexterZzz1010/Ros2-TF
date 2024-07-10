@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+
+    <include file="$(find-pkg-share my_tf_ros2_course_pkg)/launch/publish_static_transform_odom_to_world.launch.py"/>
+
+    <node pkg="my_tf_ros2_course_pkg" exec="cam_bot_odom_to_tf_pub_late_tf_fixed.py" name="cam_bot_odom_to_tf_pub_late_tf_fixed_node">
+    </node>
+
+    <node pkg="my_tf_ros2_course_pkg" exec="move_generic_model.py" name="move_generic_model_node">
+    </node>
+
+</launch>

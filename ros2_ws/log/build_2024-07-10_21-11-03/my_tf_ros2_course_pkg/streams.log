@@ -1,0 +1,29 @@
+[0.111s] Invoking command in '/home/user/ros2_ws/build/my_tf_ros2_course_pkg': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/my_tf_ros2_course_pkg -- -j8 -l8
+[0.343s] Invoked command in '/home/user/ros2_ws/build/my_tf_ros2_course_pkg' returned '0': _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/my_tf_ros2_course_pkg -- -j8 -l8
+[0.414s] Invoking command in '/home/user/ros2_ws/build/my_tf_ros2_course_pkg': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/my_tf_ros2_course_pkg
+[0.429s] -- Install configuration: ""
+[0.431s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg//launch
+[0.431s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg//launch/publish_static_transform_odom_to_world.launch.py
+[0.432s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg//launch/start_tf_fixes.launch.xml
+[0.432s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg//launch/spawn_without_robot_state_publisher.launch.py
+[0.432s] -- Installing: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg//launch/spawn.launch.py
+[0.432s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/lib/my_tf_ros2_course_pkg/cam_bot_odom_to_tf_pub.py
+[0.433s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/lib/my_tf_ros2_course_pkg/cam_bot_odom_to_tf_pub_late_tf_fixed.py
+[0.433s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/lib/my_tf_ros2_course_pkg/static_broadcaster_front_turtle_frame.py
+[0.433s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/lib/my_tf_ros2_course_pkg/move_generic_model.py
+[0.433s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/ament_index/resource_index/package_run_dependencies/my_tf_ros2_course_pkg
+[0.433s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/ament_index/resource_index/parent_prefix_path/my_tf_ros2_course_pkg
+[0.433s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/environment/ament_prefix_path.sh
+[0.433s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/environment/ament_prefix_path.dsv
+[0.433s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/environment/path.sh
+[0.433s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/environment/path.dsv
+[0.434s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/local_setup.bash
+[0.434s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/local_setup.sh
+[0.434s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/local_setup.zsh
+[0.434s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/local_setup.dsv
+[0.434s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/package.dsv
+[0.434s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/ament_index/resource_index/packages/my_tf_ros2_course_pkg
+[0.434s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/cmake/my_tf_ros2_course_pkgConfig.cmake
+[0.434s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/cmake/my_tf_ros2_course_pkgConfig-version.cmake
+[0.435s] -- Up-to-date: /home/user/ros2_ws/install/my_tf_ros2_course_pkg/share/my_tf_ros2_course_pkg/package.xml
+[0.440s] Invoked command in '/home/user/ros2_ws/build/my_tf_ros2_course_pkg' returned '0': _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/my_tf_ros2_course_pkg
